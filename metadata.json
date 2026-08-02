@@ -1,0 +1,6 @@
+{
+  "name": "ARC - AI-Native Social OS for Nostr",
+  "description": "The AI-native social operating system for Nostr. Signal over noise, intelligent feed, conversation galaxy, and Lightning creator economy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
